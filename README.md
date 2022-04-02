@@ -12,3 +12,4 @@ With regular expressions for patterns (such as phone number, passwords)
 
 Note: 'submit' event fires on the <form>
 Handling events -submit
+Validationg using Constraint Validation API
