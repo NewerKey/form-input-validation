@@ -5,5 +5,7 @@
 ### HTML Form Validation (built-in)
 
 Adding validation attributes to form elements (html5 form controls)
+Adding constraints
+With regular expressions for patterns (such as phone number, passwords)
 
 ### JavaSccript
