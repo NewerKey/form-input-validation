@@ -1,3 +1,9 @@
 # Form Validation
 
-## Project Setup
+## To dos (Client-side Validation)
+
+### HTML Form Validation (built-in)
+
+Adding validation attributes to form elements (html5 form controls)
+
+### JavaSccript
