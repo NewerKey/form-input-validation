@@ -9,3 +9,6 @@ Adding constraints
 With regular expressions for patterns (such as phone number, passwords)
 
 ### JavaSccript
+
+Note: 'submit' event fires on the <form>
+Handling events -submit
